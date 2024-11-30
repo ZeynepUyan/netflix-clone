@@ -1,11 +1,17 @@
-<h1> Netflix Clone </h1>
+<h1> NETFLİX CLONE </h1>
 
-film ve dizilerin bulunduğu siteyi tanıtır
+Gives brief information about opportunities and movies on Netflix
 
-<h2> içerik </h2>
+<h2> 🎲 FEATURES </h2>
 
-html css
- 
-<h2> ekran görüntüsü </h2>
+🔴provides information about films and series
+🔴summary introduction about Netflix
+
+<h2> ⛓️‍💥 TECHNOLOGIES USED </h2>
+
+🔸html
+🔸css
+
+<h2> 🎬 PREVIEW </h2>
 
 ![](netflix-gif-için.gif)
