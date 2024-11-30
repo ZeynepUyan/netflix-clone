@@ -1,4 +1,4 @@
-<h1> NETFLİX CLONE </h1>
+<h1> NETFLIX CLONE </h1>
 
 Gives brief information about opportunities and movies on Netflix
 
